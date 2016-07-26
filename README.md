@@ -1,2 +1,6 @@
 # hello-world
-short description
+Hi Everyone, 
+
+Getting started here. Let's do this!
+
+RL
